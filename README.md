@@ -13,7 +13,7 @@ This project is a simple HTML and CSS-based CV (Curriculum Vitae) webpage. It sh
 
 ## Demo
 
-You can view a live demo of the CV [here](https://maruf-pfc.github.io/cv-lab4/).
+You can view a live demo of the CV [here](https://mdmarufsarker.github.io/cv-design-gub/).
 
 ## Features
 
